@@ -1,0 +1,17 @@
+# Video files
+*.mp4
+*.avi
+*.mov
+
+# Extracted frames
+Extracted_frames/
+
+# Normalized silhouettes
+Normalized_silhouettes/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
